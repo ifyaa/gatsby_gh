@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["Home"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-index-js-7c0130f774ee5cb195e1.js","sourcesContent":["import React from \"react\"\n\nexport default function Home() {\n  return <div>지랄합니다</div>\n}\n"],"sourceRoot":""}

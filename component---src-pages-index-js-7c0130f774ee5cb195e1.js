@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return r}));var u=e("q1tI"),c=e.n(u);function r(){return c.a.createElement("div",null,"지랄합니다")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-7c0130f774ee5cb195e1.js.map
