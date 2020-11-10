@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"The great Gatsby","date":"2020-09-19"},"fields":{"slug":"gatsby"}}},{"node":{"frontmatter":{"title":"React","date":"2020-11-20"},"fields":{"slug":"react"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"The great Gatsby","date":"2020-09-19"},"fields":{"slug":"gatsby"}}},{"node":{"frontmatter":{"title":"천자문","date":"2020-11-10"},"fields":{"slug":"tianjamun"}}},{"node":{"frontmatter":{"title":"React","date":"2020-11-20"},"fields":{"slug":"react"}}}]}}}
